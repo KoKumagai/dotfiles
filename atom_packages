@@ -1,8 +1,15 @@
+atom-beautify
+autoclose-html
 autocomplete-paths
 autocomplete-sass
 color-picker
+docblockr
+emmet
 file-icons
+highlight-selected
+open-recent
 pigments
 project-manager
 railscast-theme
 script
+trailing-spaces
