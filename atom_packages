@@ -7,6 +7,11 @@ docblockr
 emmet
 file-icons
 highlight-selected
+minimap
+minimap-autohide
+minimap-bookmarks
+minimap-highlight-selected
+minimap-pigments
 open-recent
 pigments
 project-manager
