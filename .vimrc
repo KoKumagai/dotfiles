@@ -39,3 +39,6 @@ set mouse=a
 
 set wildmenu wildmode=list:longest,full
 set history=10000
+
+colorscheme molokai
+syntax on
