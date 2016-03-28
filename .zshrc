@@ -91,5 +91,5 @@ eval "$(rbenv init -)"
 export PATH=$HOME/.pyenv/bin:$PATH
 eval "$(pyenv init -)"
 
-# nodebrew
-export PATH=$HOME/.nodebrew/current/bin:$PATH
+# nvm
+[ -s "$HOME/.nvm/nvm.sh" ] && . "$HOME/.nvm/nvm.sh"
