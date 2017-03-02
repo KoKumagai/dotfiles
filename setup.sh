@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOTFILES=(.agignore .gitconfig .gvimrc .tmux.conf .vimrc .zshrc)
+DOTFILES=(.gitconfig .gvimrc .tmux.conf .vimrc .zshrc)
 
 for file in ${DOTFILES[@]}
 do
