@@ -12,3 +12,9 @@ desktop.ini
 *.rar
 *.tar
 *.zip
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
