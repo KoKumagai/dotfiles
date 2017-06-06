@@ -5,18 +5,3 @@
 	ui = auto
 [core]
 	editor = vim
-[alias]
-	ad = add
-	br = branch
-	bra = branch -a
-	cl = clone
-	cm = commit
-	co = checkout
-	di = diff
-	ft = fetch
-	lg = log
-	mg = merge
-	pl = pull
-	ps = push
-	rs = reset
-	st = status
